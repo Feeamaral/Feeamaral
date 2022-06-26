@@ -1,9 +1,9 @@
 ### Olá! Sou o Felipe Benedicto 👋
 
-
+<Br>
 
  💻 Sou estudante de Sistemas de Informação
-
+<br><br>
 
 <a href="https://github.com/Feeamaral">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Feeamaral&show_icons=true&theme=gotham&include_all_commits=true&count_private=true"/>
