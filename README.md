@@ -2,7 +2,7 @@
 
 <Br>
 
- 💻 Sou estudante de Sistemas de Informação
+ 💻 Sou estudante de Ciência da Computação
 <br><br>
 
 <a href="https://github.com/Feeamaral">
