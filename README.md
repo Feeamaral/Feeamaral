@@ -14,6 +14,8 @@
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
    <img align="center" alt="SQL" height="40" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdK0HV6utjWxrTUUd6MYBGM8ARutO-ngH5UQ&usqp=CAU">
+    <img align="center" alt="Java" height="40" width="25" src="https://cdn.icon-icons.com/icons2/2699/PNG/128/java_src_logo_icon_170556.png">
+   <img align="center" alt="Kotlin" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/128/file_type_kotlin_icon_130487.png"> 
   
 </div>
 
