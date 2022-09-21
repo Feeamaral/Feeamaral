@@ -2,7 +2,7 @@
 
 <pt - Br>
 
- 💻 Sou estudante de Sistemas de Informação, reza a lenda, mas eu não garanto muito.
+ 💻 Sou estudante de Sistemas de Informação
 <pt - br><pt - br>
 
 <a href="https://github.com/Feeamaral">
