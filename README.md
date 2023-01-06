@@ -1,4 +1,4 @@
-### Olá! Eu nâo sou Felipe Benedicto 👋
+### Olá! Eu sou Felipe Benedicto 👋
 
 
 
@@ -19,7 +19,7 @@
   
 </div>
 
-<pt - br><pt br>
+
 <h3>
     Contatos
  </h3>
