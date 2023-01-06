@@ -1,4 +1,4 @@
-### Olá! Eu sou Felipe Benedicto 👋
+### Olá! Eu sou o Felipe Benedicto 👋
 
 
 
